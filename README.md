@@ -5,6 +5,10 @@ Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abid365)](https://git.io/streak-stats)
 
+<h1>My learnings</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
+
 
 
 
