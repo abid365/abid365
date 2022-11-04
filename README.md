@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @abid365
-- 👀 I’m interested in javscript and machine learning.
-- 🌱 I’m currently learning front-end/webdev
-- 💞️ I’m looking to collaborate on my project that will be pulished soon.
-- 📫 How to reach me twitter.com/abidibnazam
+### 👋 Hi, I’m jawad Bin Azam.
+I am from Bangladesh. Currently i'm learing front-end/web development. I'm also getting familiar with dev-tools.I have a pure intension to master over machine learning.Platformer games is one of the best thing that i enjoy to play and build. I know a little about game development in G-develope.
+How to contact with me? 
+Well here's how- twitter.com/abidibnazam facebook.com/itsjawadagain
+
+
 
 <!---
 abid365/abid365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
