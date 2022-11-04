@@ -1,7 +1,11 @@
 ### 👋 Hi, I’m jawad Bin Azam.
 I am from Bangladesh. Currently i'm learing front-end/web development. I'm also getting familiar with dev-tools.I have a pure intension to master over machine learning.Platformer games is one of the best thing that i enjoy to play and build. I know a little about game development in G-develope.
 How to contact with me? 
-Well here's how- twitter.com/abidibnazam facebook.com/itsjawadagain
+Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abid365)](https://git.io/streak-stats)
+
+
 
 
 
