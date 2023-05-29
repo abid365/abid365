@@ -12,7 +12,7 @@ Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
 
 <h1>Currently Learning:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,bootstrap,tailwind,firebase,jwt)](https://skillicons.dev)
 
 
 
