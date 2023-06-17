@@ -10,7 +10,7 @@ Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
 
 
 
-<h1>Currently Learning:</h1>
+<h1>Skill Set:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,firebase,nodejs,mongodb,expressjs )](https://skillicons.dev)
 
