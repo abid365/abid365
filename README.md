@@ -1,5 +1,5 @@
-### 👋 Hi, I’m jawad Bin Azam.
-I am from Bangladesh. Currently i'm learing front-end/web development. I'm also getting familiar with dev-tools.I have a pure intension to master over machine learning.Platformer games is one of the best thing that i enjoy to play and build. I know a little about game development in G-develope.
+### 👋 Hi, I’m Jawad Bin Azam.
+I am from Bangladesh. Currently, I'm learning front-end/web development. I'm also getting familiar with dev tools.I have a pure intention to master machine learning. Platformer games are one of the best things I enjoy playing and building. I know a little about game development in G-develop.
 How to contact with me? 
 Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
 
@@ -14,6 +14,7 @@ Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,firebase,nodejs,mongodb,expressjs )](https://skillicons.dev)
 
+![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abid365&hide=)
 
 
 
