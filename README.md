@@ -5,7 +5,7 @@ Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
 
 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abid365)](https://git.io/streak-stats) ![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abid365&hide=)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abid365)](https://git.io/streak-stats) 
   
 
 
@@ -14,7 +14,7 @@ Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,firebase,nodejs,mongodb,expressjs )](https://skillicons.dev)
 
 
-
+![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abid365&hide=pr's)
 
 
 <!---
