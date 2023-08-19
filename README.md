@@ -7,7 +7,7 @@ Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abid365)](https://git.io/streak-stats) 
   
-
+![](https://komarev.com/ghpvc/?username=abid365)
 
 <h1>Skill Set:</h1>
 
