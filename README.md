@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Jawad Bin Azam.
-I am from Bangladesh. Currently, I'm learning front-end/web development. I'm also getting familiar with dev tools. I have a pure intention to master machine learning. Platformer games are one of the best things I enjoy playing and building. I know a little about game development in G-develop.
+I am from Bangladesh. Currently, exploring AL/ML. I'm also getting familiar with dev tools. I have a pure intention to master machine learning. Platformer games are one of the best things I enjoy playing. 
 How to contact with me? 
 Well here's how- twitter.com/abidibnazam and facebook.com/itsjawadagain
 
