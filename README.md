@@ -9,9 +9,7 @@ I am from Bangladesh. Currently, I'm exploring AI/ML and working as a developer.
 
 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abid365)](https://git.io/streak-stats) 
-  
-![](https://komarev.com/ghpvc/?username=abid365)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abid365)](https://git.io/streak-stats)![](https://komarev.com/ghpvc/?username=abid365)
 
 <h1>Skill Set:</h1>
 
