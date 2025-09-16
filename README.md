@@ -9,7 +9,7 @@ I am from Bangladesh. Currently, I'm exploring AI/ML and working as a developer.
 
 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abid365)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abid365&theme=default)](https://git.io/streak-stats)
 
 
 
