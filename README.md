@@ -20,7 +20,7 @@ I am from Bangladesh. Currently, I'm exploring AI/ML and working as a developer.
 
 <h1>Skill Set:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=vuejs,nuxt,sveltekit,fastapi,postgresql,flutter,ts,js,nodejs,python,cpp,dart )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs,nuxt,svelte,fastapi,postgresql,flutter,ts,js,nodejs,python,cpp,dart )](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abid365&layout=compact)
