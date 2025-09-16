@@ -25,7 +25,7 @@ I am from Bangladesh. Currently, I'm exploring AI/ML and working as a developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abid365&layout=compact)
 
-![Snake animation](https://github.com/abid365/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/abid365/snk/output/github-contribution-grid-snake.gif)
 
 
 
