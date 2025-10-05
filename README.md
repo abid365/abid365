@@ -19,7 +19,7 @@ Currently, I'm exploring AI/ML and working as a developer. I have a pure intenti
 
 <h1>Skill Set:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=vuejs,nuxt,svelte,adonis,fastapi,postgresql,flutter,laravel,ts,js,nodejs,python,cpp,dart,php )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs,nuxt,svelte,adonis,fastapi,postgresql,flutter,ts,js,nodejs,python,cpp,dart )](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abid365&layout=compact)
