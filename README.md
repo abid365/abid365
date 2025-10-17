@@ -1,5 +1,6 @@
 
 Exploring LLM's, playing with HF models and Doing Dev Works. Developing mobile apps with React native and building web with Vue+ Nuxt and Sveltekit. Fastapi for Ai powered backend, NestJs for general usecase.
+Currently building an AI-powered EdTech with my own shovels — because who needs funding when you’ve got dev grit and a Wi-Fi connection?
 
 ### How to contact me?
 - [Twitter](https://twitter.com/abidibnazam)
