@@ -1,5 +1,5 @@
 
-Currently, I'm exploring AI/ML and working as a developer. I have a pure intention to master machine learning. Platformer games are one of the best things I enjoy playing. Casually I build games with flutter and flame.
+Exploring LLM's, playing with HF models and Doing Dev Works. Developing mobile apps with React native and building web with Vue+ Nuxt and Sveltekit. Fastapi for Ai powered backend, NestJs for general usecase.
 
 ### How to contact me?
 - [Twitter](https://twitter.com/abidibnazam)
