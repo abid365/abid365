@@ -20,7 +20,7 @@ Currently building an AI-powered EdTech with my own shovels — because who need
 
 <h1>Skill Set:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=vuejs,nuxt,svelte,reactnative,expo,fastapi,postgresql,flutter,ts,js,nodejs,python,cpp,dart )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs,nuxt,svelte,reactjs,nestjs,fastapi,postgresql,flutter,ts,js,nodejs,python,cpp,dart )](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abid365&layout=compact)
